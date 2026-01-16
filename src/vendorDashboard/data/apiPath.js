@@ -2,7 +2,7 @@
 
 
 
-export const API_URL = "https://backend-nodejs-foodapp-ixbf.onrender.com";
+export const API_URL = "https://backend-nodejs-foodapp-ixbf.onrender.com/";
 
 
 
